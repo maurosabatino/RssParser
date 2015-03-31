@@ -4,5 +4,8 @@
     <string name="app_name">RssParser</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="editMessage">inserisci del test</string>
+    <string name="send_text">invia il testo</string>
+    <string name="title_activity_activity_display_message">my message</string>
 
 </resources>
